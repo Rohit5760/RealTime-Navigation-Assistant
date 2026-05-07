@@ -122,7 +122,7 @@ SoundSense can be used in multiple ways:
 
 Download and install the app:
 
-👉 [Download APK](https://drive.google.com/file/d/1Iysz1SwEyu5YZpkVeW5vwnFLP94yGPPY/view?usp=sharing)
+👉 [Download APK](https://drive.google.com/file/d/1BdG2I4FqFRa-TQXOLkCKvWcaZj98IvMq/view?usp=sharing)
 
 - Runs completely offline  
 - No setup required  
