@@ -13,6 +13,21 @@ It is designed to **complement**, not replace, traditional tools like the white 
 
 ---
 
+## App Variants
+
+### Navigation Assistant
+- Uses the **phone's built-in camera**
+- Works **completely offline** — no internet or subscriptions
+- No additional hardware required
+- Best for everyday, lightweight use
+
+### Navigation Hardware
+- Connects to an **external camera module** (e.g., ESP32-CAM) over HTTP
+- Requires an HTTP stream URL where frames are being served by the camera module
+- Enables hands-free, wearable setups — camera mounted on glasses or a chest harness
+- Ideal for users who want a dedicated, purpose-built navigation rig
+
+---
 ## Why SoundSense?
 
 A white cane is effective for immediate obstacles, but it has limitations:
@@ -32,7 +47,7 @@ SoundSense addresses these gaps by offering:
 ## Accessibility & Cost
 
 - **Low-cost solution** — runs on a standard smartphone  
-- **No specialized hardware required**  
+- **No specialized hardware required**  (for navigation assistant)
 - **Fully offline** — no internet or subscriptions  
 - **Free to use**
 
@@ -99,22 +114,19 @@ Text-to-Speech Output
 
 ## Hardware Setup (Optional)
 
-SoundSense can be used in multiple ways:
-
-### Basic Mode
+### Navigation Assistant (No Hardware Required)
 - Smartphone camera only
+- Install the APK and you're ready to go
 
-### Extended Setup
-- External camera (e.g., ESP32-CAM)
-- Mounted on:
+### Navigation Hardware (External Camera)
+- Requires a camera module that streams frames over HTTP (e.g., ESP32-CAM)
+- Enter the HTTP stream URL in the app to connect
+- Camera can be mounted on:
   - glasses
   - chest harness
-
 - Audio output via:
   - open-ear earphones (recommended)
   - standard earphones
-
-> This repository contains software only. Hardware setup is optional.
 
 ---
 
@@ -124,8 +136,8 @@ Download and install the app:
 
 👉 [Download APK](https://drive.google.com/drive/folders/1wt31oQWiCdHcGw8nMxsauFqa6959WHdn?usp=sharing)
 
-- Runs completely offline  
-- No setup required  
+- **Navigation Assistant** — open the app and start immediately  
+- **Navigation Hardware** — open the app, enter your camera module's HTTP stream URL, and connect 
 
 ---
 
