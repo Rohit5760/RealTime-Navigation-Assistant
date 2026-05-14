@@ -25,7 +25,7 @@ SoundSense addresses these gaps by offering:
 
 - **Distance awareness (approximate)**
 - **Directional guidance (left / right / ahead)**
-- **Motion awareness (getting closer / moving away)**
+- **Motion awareness (getting closer / getting farther)**
 
 ---
 
@@ -122,7 +122,7 @@ SoundSense can be used in multiple ways:
 
 Download and install the app:
 
-👉 [Download APK](https://drive.google.com/file/d/1BdG2I4FqFRa-TQXOLkCKvWcaZj98IvMq/view?usp=sharing)
+👉 [Download APK](https://drive.google.com/drive/folders/1wt31oQWiCdHcGw8nMxsauFqa6959WHdn?usp=sharing)
 
 - Runs completely offline  
 - No setup required  
