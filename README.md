@@ -87,9 +87,10 @@ For best results:
 👉 [Demo Video](https://drive.google.com/file/d/19LFLPK85_ZRjSWaNO_Xgi68vL8RWPZwP/view?usp=sharing)
 
 <p align="center">
-  <img src="hardware image.jpeg" width="250"/></br>
-  <img src="navigation assistant demo.jpeg" width="250"/>
-  <img src="ESP32 cam image demo.jpeg" width="250"/>
+  <img src="hardware image.jpeg" width="350"/></br>
+  
+  <img src="navigation assistant demo.jpeg" width="380"/>
+  <img src="ESP32 cam image demo.jpeg" width="380"/>
 </p>
 
 ---
