@@ -95,24 +95,10 @@ For best results:
 ---
 
 ## System Architecture
-```
-Camera Input (Phone / External Camera)
-↓
-YOLO Object Detection (TFLite)
-↓
-IoU Tracker (Track IDs)
-↓
-Pipeline
-├─ Geometry Extraction
-├─ Proximity Estimation
-├─ Motion Detection (temporal)
-├─ Urgency Scoring
-├─ Debouncing
-↓
-Text-to-Speech Output
-```
 
-
+<p align="center">
+  <img src="flowchart_transparent.png" width="600"/>
+</p>
 ---
 
 ## Hardware Setup (Optional)
