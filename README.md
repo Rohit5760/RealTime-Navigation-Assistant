@@ -82,7 +82,9 @@ For best results:
 
 ---
 
-## Screenshots
+## Screenshots & Demo
+
+👉 [Demo Video](https://drive.google.com/file/d/19LFLPK85_ZRjSWaNO_Xgi68vL8RWPZwP/view?usp=sharing)
 
 <p align="center">
   <img src="hardware image.jpeg" width="250"/></br>
