@@ -85,8 +85,9 @@ For best results:
 ## Screenshots
 
 <p align="center">
-  <img src="assets/images/app1.png" width="250"/>
-  <img src="assets/images/app2.png" width="250"/>
+  <img src="hardware image.jpeg" width="250"/></br>
+  <img src="navigation assistant demo.jpeg" width="250"/>
+  <img src="ESP32 cam image demo.jpeg" width="250"/>
 </p>
 
 ---
