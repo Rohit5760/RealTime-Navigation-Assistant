@@ -1,4 +1,4 @@
-# SoundSense
+# Cymatics
 > Real-time offline spatial awareness for visually impaired navigation.
 
 A real-time, offline navigation assistant designed to enhance spatial awareness for visually impaired users using computer vision and audio feedback.
@@ -7,7 +7,7 @@ A real-time, offline navigation assistant designed to enhance spatial awareness 
 
 ## Overview
 
-SoundSense is a lightweight assistive system that detects nearby objects, understands their position and motion, and communicates this through concise spoken feedback.
+Cymatics is a lightweight assistive system that detects nearby objects, understands their position and motion, and communicates this through concise spoken feedback.
 
 It is designed to **complement**, not replace, traditional tools like the white cane by providing **early awareness of surroundings**.
 
@@ -28,7 +28,7 @@ It is designed to **complement**, not replace, traditional tools like the white 
 - Ideal for users who want a dedicated, purpose-built navigation rig
 
 ---
-## Why SoundSense?
+## Why Cymatics?
 
 A white cane is effective for immediate obstacles, but it has limitations:
 
@@ -36,7 +36,7 @@ A white cane is effective for immediate obstacles, but it has limitations:
 - It cannot indicate motion (approaching / receding)  
 - It provides no directional context beyond contact  
 
-SoundSense addresses these gaps by offering:
+Cymatics addresses these gaps by offering:
 
 - **Distance awareness (approximate)**
 - **Directional guidance (left / right / ahead)**
@@ -173,7 +173,7 @@ python object_detection_endpoint.py
 
 ## Disclaimer
 
-SoundSense is an assistive tool and should not replace primary navigation aids such as a white cane.
+Cymatics is an assistive tool and should not replace primary navigation aids such as a white cane.
 
 ---
 
